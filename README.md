@@ -1,8 +1,8 @@
-# Portfolio CMS
+# Marin Grebenar Project
 
-## Portfolio template, made using Netlify CMS
+## Portfolio
 
-# Deploy on Netlifydf
+# Deployed on netdifly
 
 Use `export` as build command
 
