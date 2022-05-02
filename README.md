@@ -2,9 +2,9 @@
 
 ## Portfolio
 
-#### Images
+###### Images
 
-![Minion](https://octodex.github.com/images/minion.png -300x300)
+![Minion](https://octodex.github.com/images/minion.png)
 
 
 # Deployed on netdifly
