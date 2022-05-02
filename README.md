@@ -4,7 +4,7 @@
 
 #### Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png =100x100)
 
 
 # Deployed on netdifly
