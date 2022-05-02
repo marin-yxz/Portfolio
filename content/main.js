@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Marin Grebenar and I love",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -13,31 +13,27 @@ export const attributes = {
       instagram: { link: 'https://instagram.com', show: true },
       linkedin: { link: 'https://linkedin.com', show: true },
     },
-    typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
-    ],
+    typed: [{ text: 'cats' }, { text: 'web sites' }, { text: 'music' }],
   },
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'Im a student at UpLeveld course with passion in programming.I aspire to be as good as i can \n',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Clean aesthetic and colorful.\n',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'Clean lines and transparency\n',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: 'In progress...\n',
       title: 'Web Development',
     },
   ],
